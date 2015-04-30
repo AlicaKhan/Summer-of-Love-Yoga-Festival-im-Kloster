@@ -1,5 +1,7 @@
 # Summer-of-Love-Yoga-Festival-im-Kloster
-Ideensammlung fürs Summer-fo-Love festival
+Ideensammlung fürs Summer-of-Love festival
+
+
 Programmablauf:
 
 
